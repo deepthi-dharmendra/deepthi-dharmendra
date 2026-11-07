@@ -61,7 +61,7 @@ CGPA: 8.99/10
 
 ### 🤝 Let's Connect
 
-- **Email:** deepthidharmendra27@gmai.com
+- **Email:** deepthidharmendra27@gmail.com
 
 ---
 
