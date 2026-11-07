@@ -61,9 +61,8 @@ CGPA: 8.99/10
 
 ### 🤝 Let's Connect
 
-- **GitHub:** [deepthi-dharmendra](https://github.com/deepthi-dharmendra)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Email:** Add your professional email address here.
+- **LinkedIn:** [Add your LinkedIn profile URL here.](https://www.linkedin.com/in/deepthi-dharmendra)
+- **Email:** deepthidharmendra27@gmai.com
 
 ---
 
